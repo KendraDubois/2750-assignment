@@ -1,6 +1,6 @@
 # systems-development-assignment
 Started: Sept 2016
-Completed: Nov 2016
+Completed: Dec 2016
 
 An indvidual large-scale class assignment that spanned over 4 months. Used C, python, MySQL, JavaScript, PHP, HTML and CSS to upload files onto a server via a web page I created. The webpage used called C and python programs which would work together to format text based on a info file provided by the user. 
 
